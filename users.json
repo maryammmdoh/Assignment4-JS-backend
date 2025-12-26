@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Maryam",
+    "email": "maryam@gmail.com",
+    "password": "M_123",
+    "age": 27
+  },
+  {
+    "id": 2,
+    "name": "Ahmed",
+    "email": "ahmed@gmail.com",
+    "password": "A_456",
+    "age": 26
+  },
+  {
+    "id": 3,
+    "name": "Nour",
+    "email": "nour@gmail.com",
+    "password": "N_123",
+    "age": 20
+  },
+  {
+    "id": 4,
+    "name": "Zeyad",
+    "email": "zeyad@gmail.com",
+    "password": "Z_123",
+    "age": 25
+  },
+  {
+    "id": 5,
+    "name": "New User",
+    "email": "newuser@gmail.com",
+    "password": "NU_123",
+    "age": 30
+  },
+  {
+    "id": 6,
+    "name": "New User 2",
+    "email": "newuser2@gmail.com",
+    "password": "NU_456",
+    "age": 30
+  },
+  {
+    "id": 7,
+    "name": "New User 4",
+    "email": "newuser4@gmail.com",
+    "password": "NU_789",
+    "age": 22
+  }
+]
